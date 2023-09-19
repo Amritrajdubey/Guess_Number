@@ -18,4 +18,5 @@ def guess_number(x):
     else:
         print('Close but not accurate ,Try again')
 
+
 guess_number(10)
