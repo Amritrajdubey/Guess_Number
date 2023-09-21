@@ -12,6 +12,10 @@ User has to image a number b/w given range and computer will guess the number im
 
 ![Guess no](https://static.scientificamerican.com/sciam/cache/file/4CBB6636-095E-41B6-A0A88F0C027906ED_source.jpg)
 
-## 3) Rock Paper Sccisor:
+## 3) Rock Paper Scissor:
+
+Play rock , Paper , Scissor b/w user and computer will give output of Win , Lose or tie.
+
+![Guess no](https://img.freepik.com/premium-vector/hands-playing-rock-paper-scissors-game-flat-design-style-vector-illustration_540284-598.jpg?w=2000)
 
 
