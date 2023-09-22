@@ -18,4 +18,10 @@ Play rock , Paper , Scissor b/w user and computer will give output of Win , Lose
 
 ![Guess no](https://img.freepik.com/premium-vector/hands-playing-rock-paper-scissors-game-flat-design-style-vector-illustration_540284-598.jpg?w=2000)
 
+## 4) Hangman Game:
+
+Guess the Words with considered range of words from default list and can customize no of tries to guess it right.
+
+![Guess no](https://thewordsearch.com/v4/hangman/images/promo.png)
+
 
